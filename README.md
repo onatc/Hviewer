@@ -2,6 +2,8 @@
 
 # This program gets the history from a csv file and it will allow a user to view, search, and remove entries from the file.
 # Uses dynamic array list.
+#
+# Compile hviewer.cpp
 # Use: <filename> <inputfile>
 # Commands:
 #
